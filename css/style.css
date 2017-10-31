@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway');
-
 body {
   margin: 0;
 }
@@ -33,6 +31,18 @@ header ul li a { /* for links we need additional styling */
 	text-decoration: none;
 }
 
+header {
+
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+
+}
+
+header ul li a {
+
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+
+}
+
 #list1 {
 	padding:0;
 }
@@ -49,4 +59,27 @@ header ul li a { /* for links we need additional styling */
 
 .jessica {
 	background-color:violet;
+
+}
+
+h1 {
+
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+
+}
+
+h2 {
+
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+
+}
+
+p {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+p1 {
+
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+
 }
